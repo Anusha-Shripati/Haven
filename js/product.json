@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "name": "LO01 LOUNGE CHAIR",
+        "price": 200,
+        "image": "images/recource/products/product-1.jpeg"
+    },
+    {
+        "id":2,
+        "name": "LO02 LOUNGE CHAIR",
+        "price": 390,
+        "image": "images/recource/products/product-2.jpeg"
+    },
+    {
+        "id":3,
+        "name": "LO03 LOUNGE CHAIR",
+        "price": 270,
+        "image": "images/recource/products/product-3.jpg"
+    },
+    {
+        "id":4,
+        "name": "LO04 LOUNGE CHAIR",
+        "price": 360,
+        "image": "images/recource/products/product-4.jpg"
+    },
+    {
+        "id":5,
+        "name": "LO05 LOUNGE CHAIR",
+        "price": 320,
+        "image": "images/recource/products/product-5.jpg"
+    },
+    {
+        "id":6,
+        "name": "LO06 LOUNGE CHAIR",
+        "price": 290,
+        "image": "images/recource/products/product-6.jpg"
+    },
+    {
+        "id":7,
+        "name": "LO07 LOUNGE CHAIR",
+        "price": 260,
+        "image": "images/recource/products/product-7.jpg"
+    },
+    {
+        "id":8,
+        "name": "LO08 LOUNGE CHAIR",
+        "price": 220,
+        "image": "images/recource/products/product-8.jpg"
+    },
+    {
+        "id":9,
+        "name": "LO09 LOUNGE CHAIR",
+        "price": 300,
+        "image": "images/recource/products/product-9.jpg"
+    }
+]
